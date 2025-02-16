@@ -12,10 +12,6 @@ Scalability: Handles small to large-scale operations with ease.
 Third-Party Integrations: Seamlessly integrates with tools like [relevant tools].
 Security: Protects data with encryption and role-based access controls.
 
-Installation
-# Clone the repository
-git clone https://github.com/yourusername/projectname.git
-
 # Navigate into the directory
 cd projectname
 
