@@ -1,6 +1,6 @@
 # Zeta-ETHOS
 Description
-Project Name is a tool designed to [solve a specific problem] by providing [key functionality]. It streamlines [process/task], making it ideal for [target audience]. With its user-friendly interface and modular architecture, the project offers scalability, efficiency, and cross-platform compatibility. Whether for personal or professional use, Project Name simplifies workflows and enhances productivity through automation, monitoring, and real-time reporting.
+It is a tool designed to solve the problem of the blurry CCTV images. It streamlines making clearer CCTV images, making it ideal for law enforcements and general public. With its user-friendly interface and modular architecture, the project offers scalability, efficiency, and cross-platform compatibility. Whether for personal or professional use, Project Name simplifies workflows and enhances productivity through automation, monitoring, and real-time reporting.
 
 Features
 Intuitive Interface: Easy navigation for both technical and non-technical users.
@@ -9,7 +9,7 @@ Cross-Platform: Works on Windows, macOS, and Linux.
 Automation: Streamlines repetitive tasks with customizable workflows.
 Real-Time Monitoring: Track key metrics and generate detailed reports.
 Scalability: Handles small to large-scale operations with ease.
-Third-Party Integrations: Seamlessly integrates with tools like [relevant tools].
+Third-Party Integrations: Seamlessly integrates with various tools.
 Security: Protects data with encryption and role-based access controls.
 
 # Navigate into the directory
